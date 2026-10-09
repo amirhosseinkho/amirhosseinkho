@@ -25,4 +25,4 @@ My M.Sc. thesis addresses frame selection on smart glasses: on-device reinforcem
 
 ## Contact
 
-Email: amirhossein.khoshbakhtce@gmail.com
+Email: amirhossein.khoshb@gmail.com
